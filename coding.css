@@ -1,0 +1,38 @@
+#view img{
+  height:15px;
+  width:15px;
+
+}
+
+/*#views span{
+  font-size: 1rem;
+  font-family: cursive;
+}
+#blog-content{
+  font-size: 1.1rem;
+  font-family: cursive;
+  word-spacing: 1px;
+  line-height: 1.4;
+}
+
+/*aside*/
+.widget{border-top: 4px solid black;
+}
+.widget input{
+  display:block;
+  background-color: red;
+  margin-bottom:15px;
+  padding:4px
+  color black;
+  font-size:  1rem;
+
+}
+
+button[type="submit"]{
+  font-size:1.2rem;
+  background-color: blue;
+  color:white;
+  padding:10px;
+   
+
+}

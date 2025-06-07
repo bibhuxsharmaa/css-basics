@@ -1,0 +1,19 @@
+/*h4{
+    text-transform: uppercase;
+}*/
+.uppercase{
+    text-transform: uppercase;
+}
+.cursive{
+    font-family: cursive;
+}
+/*#blocg-desc{
+    color:#that code;
+}/*
+/*groupimg and nesting in css*/
+h1,p{
+    font-family: cursive;
+}
+#blog-title:hover{
+    color:brown;
+}

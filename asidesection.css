@@ -1,0 +1,36 @@
+/* asidesection.css */
+#main-section{
+    display:flex;
+    gap:10px
+}
+
+/*body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Style */
+h1 {
+    color: #333;
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin: 0;
+    font-size: 2em;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Image Style */
+a img {
+    margin-top: 30px;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+a img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
